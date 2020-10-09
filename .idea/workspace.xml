@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19-删除链表的倒数第n个节点.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36-有效的数独.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字节3面.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-外观数列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39-组合总和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-组合总和2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46-全排列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47-全排列2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-盛水最多的容器.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-盛水最多的容器.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,70 +35,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-两数之和.js">
+        <entry file="file://$PROJECT_DIR$/39-组合总和.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="19" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/365.水壶问题.js">
+        <entry file="file://$PROJECT_DIR$/78-子集.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11-盛水最多的容器.js">
+        <entry file="file://$PROJECT_DIR$/40-组合总和2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="23" selection-end-column="41" />
+            <state relative-caret-position="306">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/46-全排列.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/字节3面.js">
+        <entry file="file://$PROJECT_DIR$/47-全排列2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/36-有效的数独.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/141-环形链表.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/142-环形链表2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="289">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -119,11 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/225.用队列实现栈.js" />
-        <option value="$PROJECT_DIR$/217.存在重复元素.js" />
-        <option value="$PROJECT_DIR$/219.存在重复元素2.js" />
-        <option value="$PROJECT_DIR$/220-存在重复的元素3.js" />
-        <option value="$PROJECT_DIR$/258.各位相加.js" />
         <option value="$PROJECT_DIR$/263.丑数.js" />
         <option value="$PROJECT_DIR$/264-丑数2.js" />
         <option value="$PROJECT_DIR$/268.缺失数字.js" />
@@ -170,6 +142,11 @@
         <option value="$PROJECT_DIR$/36-有效的数独.js" />
         <option value="$PROJECT_DIR$/11-盛水最多的容器.js" />
         <option value="$PROJECT_DIR$/字节3面.js" />
+        <option value="$PROJECT_DIR$/38-外观数列.js" />
+        <option value="$PROJECT_DIR$/39-组合总和.js" />
+        <option value="$PROJECT_DIR$/40-组合总和2.js" />
+        <option value="$PROJECT_DIR$/46-全排列.js" />
+        <option value="$PROJECT_DIR$/47-全排列2.js" />
       </list>
     </option>
   </component>
@@ -213,6 +190,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="ts.external.directory.path" value="D:\xudongz\tools\WebStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xudongz\github-leetCode\leet-code" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -225,35 +207,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.字节3面.js">
+  <component name="RunManager" selected="Node.js.47-全排列2.js">
     <configuration name="104-二叉树的最大深度.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/104-二叉树的最大深度.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="11-盛水最多的容器.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/11-盛水最多的容器.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="14-最长公共前缀.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14-最长公共前缀.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="24-两两交换链表中的节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/24-两两交换链表中的节点.js" working-dir="$PROJECT_DIR$">
+    <configuration name="39-组合总和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/39-组合总和.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="28-实现strStr函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/28-实现strStr函数.js" working-dir="$PROJECT_DIR$">
+    <configuration name="40-组合总和2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/40-组合总和2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="34-在排序数组中查找元素的第一个和最后一个位置.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/34-在排序数组中查找元素的第一个和最后一个位置.js" working-dir="$PROJECT_DIR$">
+    <configuration name="46-全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/46-全排列.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="字节3面.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字节3面.js" working-dir="$PROJECT_DIR$">
+    <configuration name="47-全排列2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/47-全排列2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="78-子集.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/78-子集.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.字节3面.js" />
-        <item itemvalue="Node.js.11-盛水最多的容器.js" />
-        <item itemvalue="Node.js.34-在排序数组中查找元素的第一个和最后一个位置.js" />
-        <item itemvalue="Node.js.28-实现strStr函数.js" />
-        <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
+        <item itemvalue="Node.js.47-全排列2.js" />
+        <item itemvalue="Node.js.46-全排列.js" />
+        <item itemvalue="Node.js.78-子集.js" />
+        <item itemvalue="Node.js.40-组合总和2.js" />
+        <item itemvalue="Node.js.39-组合总和.js" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +297,8 @@
       <workItem from="1601273839863" duration="2441000" />
       <workItem from="1601276906820" duration="1678000" />
       <workItem from="1601281155406" duration="19145000" />
-      <workItem from="1601372273109" duration="11756000" />
+      <workItem from="1601372273109" duration="12854000" />
+      <workItem from="1602231120573" duration="5076000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -345,17 +328,24 @@
       <option name="project" value="LOCAL" />
       <updated>1601372490382</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="字节3面的动态规划题&#10;数独回去完成&#10;删除链表 快慢指针">
+      <created>1601452053429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601452053429</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177899000" />
+    <option name="totallyTimeSpent" value="184073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1172496" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11804452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -363,8 +353,8 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49324325" visible="true" weight="0.20592824" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49403816" weight="0.40327615" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49324325" weight="0.20592824" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49403816" visible="true" weight="0.40327615" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -391,7 +381,8 @@
     <MESSAGE value="Z形变换&#10;回家继续研究" />
     <MESSAGE value="29号 主要是递归 二分法 和链表" />
     <MESSAGE value="二分法&#10;坑在于 找到符合的元素以后 要向两边推进 直到最后一个为止" />
-    <option name="LAST_COMMIT_MESSAGE" value="二分法&#10;坑在于 找到符合的元素以后 要向两边推进 直到最后一个为止" />
+    <MESSAGE value="字节3面的动态规划题&#10;数独回去完成&#10;删除链表 快慢指针" />
+    <option name="LAST_COMMIT_MESSAGE" value="字节3面的动态规划题&#10;数独回去完成&#10;删除链表 快慢指针" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -406,6 +397,12 @@
           <line>29</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/47-全排列2.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -419,41 +416,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/342-4的幂.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/344-反转字符串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/345.反转字符串中的元音字母.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/367.有效的完全平方数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/387-字符串中的第一个唯一字符.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/389.找不同.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -644,13 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/78-子集.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/22-括号生成.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -721,23 +676,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/142-环形链表2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/141-环形链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-两数之和.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="425">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -759,6 +700,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/141-环形链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/142-环形链表2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/38-外观数列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字节3面.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/11-盛水最多的容器.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -766,13 +735,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/字节3面.js">
+    <entry file="file://$PROJECT_DIR$/40-组合总和2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/78-子集.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39-组合总和.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46-全排列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/47-全排列2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
