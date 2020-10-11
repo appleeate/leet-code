@@ -2,10 +2,11 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-const permute2 = function (nums) {
+const permuteUnique = function (nums) {
 	const res = [];
 	const len = nums.length;
 	const used = new Array(len);
+	nums.sort((a, b) => a - b);
 	let dfs = (path) => {
 		if (path.length === len) {
 			res.push(path.slice());
@@ -30,4 +31,4 @@ const permute2 = function (nums) {
 };
 
 // console.log(permute2([1, 2, 3]));
-console.log(permute2([1, 1, 2]));
+console.log(permuteUnique([3,3,0,3]));
