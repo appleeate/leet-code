@@ -17,11 +17,19 @@ listNode.next.next.next = new ListNode(4);
  * @return {ListNode}
  */
 const reverseList = function (head) {
-	let slow = head; // 储存当前指针
-	let fast = head;
-	while (fast && fast.next) {
-		slow = slow.next;
-		fast = fast.next.next;
+	if (!head || !head.next) return head;
+	let prev = null, curr = head;
+	while (curr) {
+		// 用于临时存储 curr 后继节点
+		let next = curr.next;
+		// 反转 curr 的后继指针
+		curr.next = prev;
+		// 变更prev、curr
+		// 待反转节点指向下一个节点
+		prev = curr;
+		curr = next
 	}
-	return slow;
+	return prev;
 };
+
+console.log(reverseList(listNode));
