@@ -25,3 +25,5 @@ const nthUglyNumber = function (n) {
 	}
 	return dp[n];
 };
+
+console.log(nthUglyNumber(1500));
