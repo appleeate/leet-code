@@ -15,7 +15,7 @@ function TreeNode(val) {
  * @param {number[]} inorder
  * @return {TreeNode}
  */
-const buildTree = function (preorder, inorder) {
+const buildTree = function (preorder, inorder) { // 总的想法 拆分两半
   if (!preorder.length) return null;
   const root = new TreeNode(preorder[0]); // 由前序遍历 拿到根节点
   const index = inorder.indexOf(preorder[0]); // 取到 根(中)节点 在中序遍历的下下标 用来确定左右子树
