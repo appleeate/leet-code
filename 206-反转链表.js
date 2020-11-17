@@ -1,5 +1,5 @@
 let list = require("./tools/list.js");
-let {ListNode, display} = list;
+let {ListNode} = list;
 
 /**
  * Definition for singly-linked list.
