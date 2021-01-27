@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="12.1">
-      <change afterPath="$PROJECT_DIR$/1678-设计Goal解析器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1679-K和树对的最大数目.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/328-奇偶链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/455-分发饼干.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,20 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-两数之和.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#121#293#0" expanded="true" />
-                <element signature="e#539#1122#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/349-两个数组的交集.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/324-摆动序列2.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding>
                 <element signature="e#0#105#0" expanded="true" />
               </folding>
@@ -103,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/328-奇偶链表.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#183#238#0" expanded="true" />
@@ -116,19 +100,32 @@
         <entry file="file://$PROJECT_DIR$/1678-设计Goal解析器.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1679-K和树对的最大数目.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#74#0" expanded="true" />
+                <element signature="n#!!block;n#maxOperations#0;n#maxOperations#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1679-K和树对的最大数目.js">
+        <entry file="file://$PROJECT_DIR$/455-分发饼干.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#0#74#0" expanded="true" />
-                <element signature="n#!!block;n#maxOperations#0;n#maxOperations#0;n#!!top" expanded="true" />
+                <element signature="e#0#73#0" expanded="true" />
+                <element signature="n#!!block;n#findContentChildren#0;n#findContentChildren#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,7 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/环形链表3.js" />
         <option value="$PROJECT_DIR$/1592-重新排列单词间的空格.js" />
         <option value="$PROJECT_DIR$/189-旋转数组.js" />
         <option value="$PROJECT_DIR$/198-打家劫舍.js" />
@@ -236,6 +232,7 @@
         <option value="$PROJECT_DIR$/328-奇偶链表.js" />
         <option value="$PROJECT_DIR$/1678-设计Goal解析器.js" />
         <option value="$PROJECT_DIR$/1679-K和树对的最大数目.js" />
+        <option value="$PROJECT_DIR$/455-分发饼干.js" />
       </list>
     </option>
   </component>
@@ -259,6 +256,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,11 +264,15 @@
               <item name="leet-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="leet-code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leet-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet-code" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="WxProject" />
     </panes>
   </component>
@@ -304,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.324-摆动序列2.js">
+  <component name="RunManager" selected="Node.js.455-分发饼干.js">
     <configuration name="103-二叉树的锯齿形层次遍历.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/103-二叉树的锯齿形层次遍历.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -312,9 +314,6 @@
       <method v="2" />
     </configuration>
     <configuration name="14-最长公共前缀.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14-最长公共前缀.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="227-基本计算器2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/227-基本计算器2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="228-汇总区间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/228-汇总区间.js" working-dir="$PROJECT_DIR$">
@@ -329,23 +328,26 @@
     <configuration name="324-摆动序列2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/324-摆动序列2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="455-分发饼干.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/455-分发饼干.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
-      <item itemvalue="Node.js.227-基本计算器2.js" />
       <item itemvalue="Node.js.228-汇总区间.js" />
       <item itemvalue="Node.js.231-2的幂.js" />
       <item itemvalue="Node.js.229-求众数.js" />
       <item itemvalue="Node.js.324-摆动序列2.js" />
+      <item itemvalue="Node.js.455-分发饼干.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.455-分发饼干.js" />
         <item itemvalue="Node.js.324-摆动序列2.js" />
         <item itemvalue="Node.js.229-求众数.js" />
         <item itemvalue="Node.js.231-2的幂.js" />
         <item itemvalue="Node.js.228-汇总区间.js" />
-        <item itemvalue="Node.js.227-基本计算器2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -435,6 +437,7 @@
       <workItem from="1607073189523" duration="6585000" />
       <workItem from="1607648936156" duration="955000" />
       <workItem from="1608192602474" duration="876000" />
+      <workItem from="1611713119118" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -587,12 +590,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="295183000" />
+    <option name="totallyTimeSpent" value="295377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1142632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1142632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -600,7 +604,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4854216" visible="true" weight="0.35101405" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48502758" visible="true" weight="0.35101405" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48857367" weight="0.3946958" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -608,7 +612,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32605305" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5145784" side_tool="true" visible="true" weight="0.35101405" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51497245" side_tool="true" visible="true" weight="0.35101405" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Console" order="12" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
@@ -678,13 +682,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/105-从前序与中序遍历序列构造二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/108-将有序数组转换为二叉搜索树.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1114,7 +1111,7 @@
     <entry file="file://$PROJECT_DIR$/324-摆动序列2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding>
             <element signature="e#0#105#0" expanded="true" />
           </folding>
@@ -1135,7 +1132,7 @@
     <entry file="file://$PROJECT_DIR$/328-奇偶链表.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#183#238#0" expanded="true" />
@@ -1146,7 +1143,7 @@
     <entry file="file://$PROJECT_DIR$/1678-设计Goal解析器.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1176,10 +1173,21 @@
     <entry file="file://$PROJECT_DIR$/1679-K和树对的最大数目.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#74#0" expanded="true" />
             <element signature="n#!!block;n#maxOperations#0;n#maxOperations#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/455-分发饼干.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+            <element signature="n#!!block;n#findContentChildren#0;n#findContentChildren#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
