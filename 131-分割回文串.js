@@ -30,3 +30,5 @@ const partition = function (s) {
   helper(s, 0, [], res);
   return res;
 };
+
+console.log(partition("abb"));
