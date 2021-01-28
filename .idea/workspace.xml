@@ -4,16 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/134-加油站.js" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/240-搜索二维矩阵2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/mergeSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/125-验证回文串.js" beforeDir="false" afterPath="$PROJECT_DIR$/125-验证回文串.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/131-分割回文串.js" beforeDir="false" afterPath="$PROJECT_DIR$/131-分割回文串.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/136-只出现一次的数字.js" beforeDir="false" afterPath="$PROJECT_DIR$/136-只出现一次的数字.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1679-K和树对的最大数目.js" beforeDir="false" afterPath="$PROJECT_DIR$/1679-K和树对的最大数目.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/88-合并两个有序数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/88-合并两个有序数组.js" afterDir="false" />
-    </list>
+    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,11 +35,10 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/240-搜索二维矩阵2.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
+                <state relative-caret-position="238">
                   <caret line="18" column="15" selection-start-line="6" selection-start-column="2" selection-end-line="18" selection-end-column="15" />
                   <folding>
                     <element signature="e#0#84#0" expanded="true" />
-                    <element signature="e#857#961#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -57,11 +47,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/88-合并两个有序数组.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+                <state relative-caret-position="221">
+                  <caret line="27" selection-start-line="27" selection-end-line="27" />
                   <folding>
                     <element signature="e#0#176#0" expanded="true" />
-                    <element signature="e#219#476#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -70,8 +59,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/74-搜索二维矩阵.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+                <state relative-caret-position="34">
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
                   <folding>
                     <element signature="e#0#84#0" expanded="true" />
                     <element signature="n#!!block;n#searchMatrix#0;n#searchMatrix#0;n#!!top" expanded="true" />
@@ -83,12 +72,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/74-搜索二维矩阵.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="323">
-                  <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
                   <folding>
                     <element signature="e#0#84#0" expanded="true" />
                     <element signature="n#!!block;n#searchMatrix#0;n#searchMatrix#0;n#!!top" expanded="true" />
@@ -100,11 +89,10 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/125-验证回文串.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="544">
-                  <caret line="32" column="13" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="32" selection-end-column="13" />
+                <state relative-caret-position="340">
+                  <caret line="32" column="13" selection-start-line="16" selection-start-column="2" selection-end-line="32" selection-end-column="13" />
                   <folding>
                     <element signature="e#0#49#0" expanded="true" />
-                    <element signature="n#!!block;n#isPalindrome#0;n#isPalindrome#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -113,7 +101,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/131-分割回文串.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
+                <state relative-caret-position="51">
                   <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
                   <folding>
                     <element signature="e#0#52#0" expanded="true" />
@@ -128,7 +116,7 @@
             <entry file="file://$PROJECT_DIR$/55-跳跃游戏.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
                   <folding>
                     <element signature="e#0#54#0" expanded="true" />
                     <element signature="e#87#226#0" expanded="true" />
@@ -415,6 +403,7 @@
       <workItem from="1607648936156" duration="955000" />
       <workItem from="1608192602474" duration="876000" />
       <workItem from="1611713119118" duration="15956000" />
+      <workItem from="1611819543569" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -574,13 +563,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311139000" />
+    <option name="totallyTimeSpent" value="311392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-7" y="3" width="1692" height="1055" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1142632" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113663845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -596,7 +585,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32605305" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51497245" side_tool="true" visible="true" weight="0.3946958" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51497245" side_tool="true" visible="true" weight="0.39413682" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Console" order="12" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
@@ -657,7 +646,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/131-分割回文串.js</url>
           <line>5</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
@@ -1163,11 +1151,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/240-搜索二维矩阵2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="238">
           <caret line="18" column="15" selection-start-line="6" selection-start-column="2" selection-end-line="18" selection-end-column="15" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
-            <element signature="e#857#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/88-合并两个有序数组.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#176#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1175,7 +1172,7 @@
     <entry file="file://$PROJECT_DIR$/74-搜索二维矩阵.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
             <element signature="n#!!block;n#searchMatrix#0;n#searchMatrix#0;n#!!top" expanded="true" />
@@ -1185,18 +1182,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/125-验证回文串.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="32" column="13" selection-start-line="16" selection-start-column="2" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <element signature="n#!!block;n#isPalindrome#0;n#isPalindrome#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/131-分割回文串.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="51">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="e#0#52#0" expanded="true" />
@@ -1209,21 +1205,10 @@
     <entry file="file://$PROJECT_DIR$/55-跳跃游戏.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
             <element signature="e#87#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/88-合并两个有序数组.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#176#0" expanded="true" />
-            <element signature="e#219#476#0" expanded="true" />
           </folding>
         </state>
       </provider>
