@@ -31,6 +31,22 @@ const subsets1 = function (nums) {
   return dp[nums.length]
 };
 
+const subsets2 = (nums) => {
+  const res = [];
+  const dfs = (index, list) => {
+    res.push(list.slice());     // 调用子递归前，加入解集
+    for (let i = index; i < nums.length; i++) { // 枚举出所有可选的数
+      list.push(nums[i]);       // 选这个数
+      dfs(i + 1, list);         // 基于选这个数，继续递归，传入的是i+1，不是index+1
+      list.pop();               // 撤销选这个数
+    }
+  };
+  dfs(0, []);
+  return res;
+};
+
+
 // console.log(subsets([1, 2]));
 console.log(subsets1([1, 2, 3]));
-console.log(subsets1([2, 3, 1]));
+console.log(subsets2([1, 2]));
+console.log(subsets1([1, 2, 3, 4]));
