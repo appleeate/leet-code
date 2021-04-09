@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1252-奇数值单元格的数目.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/147-对链表进行插入排序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/653-两数之和4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/657-机器人能否返回远点.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-两数相加.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-两数相加.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/78-子集.js" beforeDir="false" afterPath="$PROJECT_DIR$/78-子集.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-有效的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/20-有效的括号.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,13 +62,27 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+                <state relative-caret-position="238">
+                  <caret line="23" selection-start-line="23" selection-end-line="23" />
                   <folding>
                     <element signature="e#0#102#0" expanded="true" />
+                    <element signature="e#155#445#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/657-机器人能否返回远点.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="55" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="55" />
+                  <folding>
+                    <element signature="e#0#53#0" expanded="true" />
+                    <element signature="e#150#202#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -82,7 +92,7 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/78-子集.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="204">
@@ -90,6 +100,46 @@
                   <folding>
                     <element signature="e#0#57#0" expanded="true" />
                     <element signature="e#504#729#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/01-两数之和.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <element signature="e#328#503#0" expanded="true" />
+                    <element signature="e#539#1122#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/226-反转二叉树.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <element signature="e#141#196#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/20-有效的括号.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+                  <folding>
+                    <element signature="e#0#49#0" expanded="true" />
+                    <element signature="e#77#435#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -117,6 +167,8 @@
       <find>TreeNode</find>
       <find>getTreeFromLayerOrderArray</find>
       <find>dfs</find>
+      <find>array</find>
+      <find>Uint8Array</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,8 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/202-快乐数.js" />
-        <option value="$PROJECT_DIR$/203-移除链表元素.js" />
         <option value="$PROJECT_DIR$/300-最长上升子序列.js" />
         <option value="$PROJECT_DIR$/287-寻找重复数.js" />
         <option value="$PROJECT_DIR$/257-二叉树的所有路径.js" />
@@ -176,6 +226,8 @@
         <option value="$PROJECT_DIR$/1252-奇数值单元格的数目.js" />
         <option value="$PROJECT_DIR$/78-子集.js" />
         <option value="$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js" />
+        <option value="$PROJECT_DIR$/20-有效的括号.js" />
+        <option value="$PROJECT_DIR$/657-机器人能否返回远点.js" />
       </list>
     </option>
   </component>
@@ -244,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js">
+  <component name="RunManager" selected="Node.js.657-机器人能否返回远点.js">
     <configuration name="103-二叉树的锯齿形层次遍历.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/103-二叉树的锯齿形层次遍历.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -260,32 +312,32 @@
     <configuration name="14-最长公共前缀.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14-最长公共前缀.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="20-有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20-有效的括号.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="322-零钱兑换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/322-零钱兑换.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="39-组合总和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/39-组合总和.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="46-全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/46-全排列.js" working-dir="$PROJECT_DIR$">
+    <configuration name="657-机器人能否返回远点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/657-机器人能否返回远点.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
-      <item itemvalue="Node.js.46-全排列.js" />
       <item itemvalue="Node.js.322-零钱兑换.js" />
-      <item itemvalue="Node.js.39-组合总和.js" />
       <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
       <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
+      <item itemvalue="Node.js.657-机器人能否返回远点.js" />
+      <item itemvalue="Node.js.20-有效的括号.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.657-机器人能否返回远点.js" />
+        <item itemvalue="Node.js.20-有效的括号.js" />
         <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
         <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
         <item itemvalue="Node.js.322-零钱兑换.js" />
-        <item itemvalue="Node.js.39-组合总和.js" />
-        <item itemvalue="Node.js.46-全排列.js" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +440,8 @@
       <workItem from="1615947544626" duration="15768000" />
       <workItem from="1617156927989" duration="2938000" />
       <workItem from="1617262379555" duration="170000" />
+      <workItem from="1617781273890" duration="2049000" />
+      <workItem from="1617858384773" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -554,12 +608,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350801000" />
+    <option name="totallyTimeSpent" value="355118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13514578" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.066981874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -567,7 +621,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47635934" visible="true" weight="0.35101405" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47596532" weight="0.35101405" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4826635" weight="0.3946958" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,7 +629,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32605305" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.52364063" side_tool="true" visible="true" weight="0.35101405" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5240347" side_tool="true" visible="true" weight="0.35101405" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Console" order="12" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
@@ -657,37 +711,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/349-两个数组的交集.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-            <element signature="n#!!block;n#intersection#0;n#intersection#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/350-两个数组的交集.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/324-摆动序列2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/150.逆波兰表达式求值.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1078,18 +1101,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-两数之和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#121#293#0" expanded="true" />
-            <element signature="e#328#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/39-组合总和.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1181,23 +1192,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js">
+    <entry file="file://$PROJECT_DIR$/78-子集.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="20" selection-start-line="5" selection-start-column="2" selection-end-line="20" />
           <folding>
-            <element signature="e#0#102#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#142#435#0" expanded="true" />
+            <element signature="e#504#729#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/78-子集.js">
+    <entry file="file://$PROJECT_DIR$/01-两数之和.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
-            <element signature="e#504#729#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#328#503#0" expanded="true" />
+            <element signature="e#539#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/226-反转二叉树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#141#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#102#0" expanded="true" />
+            <element signature="e#155#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-有效的括号.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#77#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/657-机器人能否返回远点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="e#150#202#0" expanded="true" />
           </folding>
         </state>
       </provider>
