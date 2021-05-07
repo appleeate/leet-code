@@ -9,6 +9,7 @@ const wiggleSort = function (nums) {
     nums[k] = (k & 1) ? res[j--] : res[i--];
     k++;
   }
+  console.log(nums);
 };
 // wiggleSort([1, 5, 1, 1, 6, 4]);
 wiggleSort([1, 3, 2, 2, 3, 1]);

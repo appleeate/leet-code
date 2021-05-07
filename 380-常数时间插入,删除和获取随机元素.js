@@ -44,3 +44,29 @@ RandomizedSet.prototype.getRandom = function() {
  * var param_2 = obj.remove(val)
  * var param_3 = obj.getRandom()
  */
+
+
+// 使用类进行重写
+
+class RandomizedSetClass {
+  constructor() {
+    this.set = new Set();
+  }
+
+  insert(val) {
+    if(!this.set.has(val)) return false;
+    this.set.add(val);
+    return true;
+  }
+
+  remove(val) {
+    if(!this.set.has(val)) return false;
+    this.set.delete(vale);
+    return true;
+  }
+
+  getRandom() {
+    const random = parseInt(Math.random() * (this.set.size));
+    return [...this.set][random];
+  }
+}
