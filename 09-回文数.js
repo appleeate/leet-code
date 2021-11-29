@@ -3,7 +3,7 @@ const isPalindrome = function (x) {
   let str = x + "";
   return str.split("").reverse().join("") === str;
 
-};
+}; 
 let a = isPalindrome(10);
 console.log(a);
 
