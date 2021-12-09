@@ -48,4 +48,4 @@ const levelOrder1 = function (root) { // 栈写法
 };
 
 // console.log(levelOrder(getTreeFromLayerOrderArray([3, 9, 20, null, null, 15, 7])));
-console.log(levelOrder(getTreeFromLayerOrderArray([1,null,2,2,3,4,4,3,6,7,9])));
+console.log(levelOrder(getTreeFromLayerOrderArray([1,2,3,4,5])));

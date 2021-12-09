@@ -34,6 +34,7 @@ var levelOrder1 = function (root) {
   if (root === null) return [];
   const res = [];
   const queue = [root]; // 根结点入队列
+  debugger;
   while (queue.length) {
     const n = queue.shift()// 出列
     res.push(n.val);
