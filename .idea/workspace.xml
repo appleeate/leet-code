@@ -4,21 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/134-加油站.js" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="3.11 增加子集 的 动态规划 解法">
-      <change afterPath="$PROJECT_DIR$/704-二分查找.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/844. 比较含退格的字符串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/977. 有序数组的平方.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - II. 从上到下打印二叉树 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treePreview/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treePreview/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treePreview/js/binarytree.js" afterDir="false" />
+    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="12。09">
+      <change afterPath="$PROJECT_DIR$/707. 设计链表.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102-二叉树的层序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/102-二叉树的层序遍历.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26.删除排序数组中的重复项.js" beforeDir="false" afterPath="$PROJECT_DIR$/26.删除排序数组中的重复项.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-移除元素.js" beforeDir="false" afterPath="$PROJECT_DIR$/27-移除元素.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/35-搜索插入位置.js" beforeDir="false" afterPath="$PROJECT_DIR$/35-搜索插入位置.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - I. 从上到下打印二叉树.js" beforeDir="false" afterPath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - I. 从上到下打印二叉树.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/209-长度最小的子数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/209-长度最小的子数组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-括号生成.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-括号生成.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24-两两交换链表中的节点.js" beforeDir="false" afterPath="$PROJECT_DIR$/24-两两交换链表中的节点.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +184,7 @@
       <recent name="D:\learn\leet-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.977. 有序数组的平方.js">
+  <component name="RunManager" selected="Node.js.22-括号生成.js">
     <configuration name="103-二叉树的锯齿形层次遍历.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/103-二叉树的锯齿形层次遍历.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -203,16 +194,16 @@
     <configuration name="14-最长公共前缀.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14-最长公共前缀.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="22-括号生成.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/22-括号生成.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="24-两两交换链表中的节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/24-两两交换链表中的节点.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="26.删除排序数组中的重复项.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/26.删除排序数组中的重复项.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="27-移除元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/27-移除元素.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="367.有效的完全平方数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/367.有效的完全平方数.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="704-二分查找.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/704-二分查找.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="977. 有序数组的平方.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/977. 有序数组的平方.js" working-dir="$PROJECT_DIR$">
@@ -222,19 +213,19 @@
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
-      <item itemvalue="Node.js.704-二分查找.js" />
-      <item itemvalue="Node.js.367.有效的完全平方数.js" />
       <item itemvalue="Node.js.27-移除元素.js" />
       <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
       <item itemvalue="Node.js.977. 有序数组的平方.js" />
+      <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
+      <item itemvalue="Node.js.22-括号生成.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.22-括号生成.js" />
+        <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
         <item itemvalue="Node.js.977. 有序数组的平方.js" />
         <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
         <item itemvalue="Node.js.27-移除元素.js" />
-        <item itemvalue="Node.js.367.有效的完全平方数.js" />
-        <item itemvalue="Node.js.704-二分查找.js" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +332,8 @@
       <workItem from="1617781273890" duration="2049000" />
       <workItem from="1617858384773" duration="2268000" />
       <workItem from="1638518398201" duration="2687000" />
-      <workItem from="1638868323081" duration="25576000" />
+      <workItem from="1638868323081" duration="29021000" />
+      <workItem from="1639395630997" duration="5919000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -504,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615453377778</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="12。09">
+      <created>1639051511194</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1639051511194</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -579,16 +578,12 @@
     <MESSAGE value="12.1" />
     <MESSAGE value="1.27 贪心算法" />
     <MESSAGE value="3.11 增加子集 的 动态规划 解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.11 增加子集 的 动态规划 解法" />
+    <MESSAGE value="12。09" />
+    <option name="LAST_COMMIT_MESSAGE" value="12。09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/209-长度最小的子数组.js</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/17-电话号码的字母组合.js</url>
           <line>29</line>
@@ -602,7 +597,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/26.删除排序数组中的重复项.js</url>
           <line>12</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>

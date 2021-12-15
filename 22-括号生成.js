@@ -19,4 +19,4 @@ const generateParenthesis = function (n) {
 	return res;
 };
 
-console.log(generateParenthesis(2));
+console.log(generateParenthesis(3));
