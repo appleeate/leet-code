@@ -9,7 +9,7 @@ let merge = function (nums1, m, nums2, n) {
   let mIndex = m - 1,
     nIndex = n - 1,
     tail = m + n - 1; // tail 就是 nums1 数组的 最后一位
-  while (nIndex >= 0) { // 这里 mIndex >= 0 也可以
+  while (nIndex >= 0) { // mIndex 不行
     if (nums1[mIndex] > nums2[nIndex]) {
       nums1[tail] = nums1[mIndex];
       mIndex--;
