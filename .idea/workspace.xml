@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/134-加油站.js" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="3.11 增加子集 的 动态规划 解法">
+    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="12-15">
+      <change afterPath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - III. 从上到下打印二叉树 III.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - II. 从上到下打印二叉树 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - II. 从上到下打印二叉树 II.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +55,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/ac03a87b735616be96b0cfc809ef10f5/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/hashTable.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/78-子集.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/01-两数之和.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/226-反转二叉树.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/20-有效的括号.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,11 +128,8 @@
       </list>
     </option>
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -123,7 +140,11 @@
     <option name="width" value="1296" />
     <option name="height" value="1416" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="220Qg6tWgTymzL2BR2e2JIOZIM3" />
+=======
+  <component name="ProjectId" id="21lb0KoHvYmYomWjjGEoopFYRBp" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -153,13 +174,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="javascript.nodejs.core.library.configured.version" value="14.18.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.18.0" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test/ele" />
+=======
+    <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="D:\tools\webstorm\WebStorm 2018.3.6\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -178,41 +209,59 @@
     <configuration name="104-二叉树的最大深度.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/104-二叉树的最大深度.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="1252-奇数值单元格的数目.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1252-奇数值单元格的数目.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="1343-大小为k且平均值大于等于阈值的子数组数目.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="14-最长公共前缀.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14-最长公共前缀.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="20-有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20-有效的括号.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="22-括号生成.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/22-括号生成.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="657-机器人能否返回远点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/657-机器人能否返回远点.js" working-dir="$PROJECT_DIR$">
+    <configuration name="24-两两交换链表中的节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/24-两两交换链表中的节点.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="26.删除排序数组中的重复项.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/26.删除排序数组中的重复项.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="22-括号生成.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/22-括号生成.js" working-dir="$PROJECT_DIR$">
+=======
+    <configuration name="27-移除元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/27-移除元素.js" working-dir="$PROJECT_DIR$">
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
+      <method v="2" />
+    </configuration>
+    <configuration name="977. 有序数组的平方.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/977. 有序数组的平方.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
+<<<<<<< HEAD
       <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
       <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
       <item itemvalue="Node.js.657-机器人能否返回远点.js" />
       <item itemvalue="Node.js.20-有效的括号.js" />
+=======
+      <item itemvalue="Node.js.27-移除元素.js" />
+      <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
+      <item itemvalue="Node.js.977. 有序数组的平方.js" />
+      <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
       <item itemvalue="Node.js.22-括号生成.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.22-括号生成.js" />
+<<<<<<< HEAD
         <item itemvalue="Node.js.657-机器人能否返回远点.js" />
         <item itemvalue="Node.js.20-有效的括号.js" />
         <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
         <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
+=======
+        <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
+        <item itemvalue="Node.js.977. 有序数组的平方.js" />
+        <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
+        <item itemvalue="Node.js.27-移除元素.js" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
       </list>
     </recent_temporary>
   </component>
@@ -318,10 +367,21 @@
       <workItem from="1617262379555" duration="170000" />
       <workItem from="1617781273890" duration="2049000" />
       <workItem from="1617858384773" duration="2268000" />
+<<<<<<< HEAD
       <workItem from="1638972137124" duration="86000" />
       <workItem from="1639664011895" duration="384000" />
       <workItem from="1639667651936" duration="49000" />
       <workItem from="1641735571295" duration="27000" />
+=======
+      <workItem from="1638518398201" duration="2687000" />
+      <workItem from="1638868323081" duration="29021000" />
+      <workItem from="1639395630997" duration="6546000" />
+      <workItem from="1640082260224" duration="2141000" />
+      <workItem from="1641809431561" duration="676000" />
+      <workItem from="1641882916839" duration="526000" />
+      <workItem from="1641883453605" duration="55000" />
+      <workItem from="1641883519606" duration="599000" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -484,7 +544,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615453377778</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="12。09">
+      <created>1639051511194</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1639051511194</updated>
+    </task>
+    <task id="LOCAL-00025" summary="12-15">
+      <created>1639547810280</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1639547810280</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -524,6 +598,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+<<<<<<< HEAD
+=======
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="滑动窗口经典题&#10;递归经典题" />
@@ -548,16 +636,13 @@
     <MESSAGE value="12.1" />
     <MESSAGE value="1.27 贪心算法" />
     <MESSAGE value="3.11 增加子集 的 动态规划 解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.11 增加子集 的 动态规划 解法" />
+    <MESSAGE value="12。09" />
+    <MESSAGE value="12-15" />
+    <option name="LAST_COMMIT_MESSAGE" value="12-15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/209-长度最小的子数组.js</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/17-电话号码的字母组合.js</url>
           <line>29</line>
@@ -568,8 +653,17 @@
           <line>5</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/26.删除排序数组中的重复项.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">

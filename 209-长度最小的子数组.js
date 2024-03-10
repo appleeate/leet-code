@@ -27,6 +27,19 @@ const minSubArrayLen = function (s, nums) {
 	}
 	return result === Infinity ? 0 : result
 };
+const minSubArrayLen1 = function (target, nums) {
+  // 经典滑动窗口
+  let l = 0, r = 0, sum = 0, len = nums.length;
+  let res = len + 1;
+  while (r < len) {
+    sum += nums[r++];
+    while (sum >= target) {
+      res = Math.min(res, r - l);
+      sum -= nums[l++]
+    }
+  }
+  return res > len ? 0 : res;
+};
 
 
 console.log(minSubArrayLen(7, [2, 3, 1, 2, 4, 3]));

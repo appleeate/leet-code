@@ -29,6 +29,6 @@ const removeDuplicates = function (nums) {
 	// return len
 };
 
-let arr = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4];
+let arr = [1,1,1,2];
 console.log(removeDuplicates(arr));
 console.log(arr);

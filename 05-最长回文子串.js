@@ -1,4 +1,5 @@
 const longestPalindrome = s => {
+  debugger;
   if (!s || s.length < 2) {
     return s;
   }
