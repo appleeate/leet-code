@@ -4,15 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/134-加油站.js" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/657-机器人能否返回远点.js" afterDir="false" />
+    <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="3.11 增加子集 的 动态规划 解法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-有效的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/20-有效的括号.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,123 +25,6 @@
     </option>
     <expand />
     <select />
-  </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1252-奇数值单元格的数目.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="7" column="67" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="67" />
-                  <folding>
-                    <element signature="e#0#100#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/78-子集.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="20" selection-start-line="5" selection-start-column="2" selection-end-line="20" />
-                  <folding>
-                    <element signature="e#0#57#0" expanded="true" />
-                    <element signature="e#142#435#0" expanded="true" />
-                    <element signature="e#504#729#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1343-大小为k且平均值大于等于阈值的子数组数目.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="23" selection-start-line="23" selection-end-line="23" />
-                  <folding>
-                    <element signature="e#0#102#0" expanded="true" />
-                    <element signature="e#155#445#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/657-机器人能否返回远点.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="55" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="55" />
-                  <folding>
-                    <element signature="e#0#53#0" expanded="true" />
-                    <element signature="e#150#202#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/78-子集.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="24" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="24" />
-                  <folding>
-                    <element signature="e#0#57#0" expanded="true" />
-                    <element signature="e#504#729#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01-两数之和.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#328#503#0" expanded="true" />
-                    <element signature="e#539#1122#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/226-反转二叉树.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#141#196#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20-有效的括号.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-                  <folding>
-                    <element signature="e#0#49#0" expanded="true" />
-                    <element signature="e#77#435#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -237,12 +114,16 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectId" id="220Qg6tWgTymzL2BR2e2JIOZIM3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -266,15 +147,21 @@
       <pane id="WxProject" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="8.11.4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.18.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.18.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test/ele" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="ts.external.directory.path" value="D:\tools\webstorm\WebStorm 2018.3.6\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -284,19 +171,7 @@
       <recent name="D:\learn\leet-code" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Node.js.657-机器人能否返回远点.js">
+  <component name="RunManager" selected="Node.js.22-括号生成.js">
     <configuration name="103-二叉树的锯齿形层次遍历.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/103-二叉树的锯齿形层次遍历.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -315,7 +190,7 @@
     <configuration name="20-有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20-有效的括号.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="322-零钱兑换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/322-零钱兑换.js" working-dir="$PROJECT_DIR$">
+    <configuration name="22-括号生成.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/22-括号生成.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="657-机器人能否返回远点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/657-机器人能否返回远点.js" working-dir="$PROJECT_DIR$">
@@ -325,22 +200,23 @@
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
-      <item itemvalue="Node.js.322-零钱兑换.js" />
       <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
       <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
       <item itemvalue="Node.js.657-机器人能否返回远点.js" />
       <item itemvalue="Node.js.20-有效的括号.js" />
+      <item itemvalue="Node.js.22-括号生成.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.22-括号生成.js" />
         <item itemvalue="Node.js.657-机器人能否返回远点.js" />
         <item itemvalue="Node.js.20-有效的括号.js" />
         <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
         <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
-        <item itemvalue="Node.js.322-零钱兑换.js" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -442,6 +318,10 @@
       <workItem from="1617262379555" duration="170000" />
       <workItem from="1617781273890" duration="2049000" />
       <workItem from="1617858384773" duration="2268000" />
+      <workItem from="1638972137124" duration="86000" />
+      <workItem from="1639664011895" duration="384000" />
+      <workItem from="1639667651936" duration="49000" />
+      <workItem from="1641735571295" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -643,7 +523,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="滑动窗口经典题&#10;递归经典题" />
