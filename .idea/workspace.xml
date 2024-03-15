@@ -125,6 +125,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="m4fegpna" />
   </component>
@@ -137,8 +140,11 @@
     <option name="width" value="1296" />
     <option name="height" value="1416" />
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="220Qg6tWgTymzL2BR2e2JIOZIM3" />
+=======
   <component name="ProjectId" id="21lb0KoHvYmYomWjjGEoopFYRBp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -167,6 +173,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+    <property name="javascript.nodejs.core.library.configured.version" value="14.18.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.18.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test/ele" />
+=======
     <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.0.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -174,6 +185,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -208,7 +220,7 @@
     <configuration name="26.删除排序数组中的重复项.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/26.删除排序数组中的重复项.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="63-不同路径2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/63-不同路径2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="27-移除元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/27-移除元素.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="977. 有序数组的平方.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/977. 有序数组的平方.js" working-dir="$PROJECT_DIR$">
@@ -218,9 +230,11 @@
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
+      <item itemvalue="Node.js.27-移除元素.js" />
       <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
       <item itemvalue="Node.js.977. 有序数组的平方.js" />
       <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
       <item itemvalue="Node.js.22-括号生成.js" />
       <item itemvalue="Node.js.63-不同路径2.js" />
     </list>
@@ -228,9 +242,16 @@
       <list>
         <item itemvalue="Node.js.63-不同路径2.js" />
         <item itemvalue="Node.js.22-括号生成.js" />
+<<<<<<< HEAD
+        <item itemvalue="Node.js.657-机器人能否返回远点.js" />
+        <item itemvalue="Node.js.20-有效的括号.js" />
+        <item itemvalue="Node.js.1343-大小为k且平均值大于等于阈值的子数组数目.js" />
+        <item itemvalue="Node.js.1252-奇数值单元格的数目.js" />
+=======
         <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
         <item itemvalue="Node.js.977. 有序数组的平方.js" />
         <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
+        <item itemvalue="Node.js.27-移除元素.js" />
       </list>
     </recent_temporary>
   </component>
@@ -336,6 +357,12 @@
       <workItem from="1617262379555" duration="170000" />
       <workItem from="1617781273890" duration="2049000" />
       <workItem from="1617858384773" duration="2268000" />
+<<<<<<< HEAD
+      <workItem from="1638972137124" duration="86000" />
+      <workItem from="1639664011895" duration="384000" />
+      <workItem from="1639667651936" duration="49000" />
+      <workItem from="1641735571295" duration="27000" />
+=======
       <workItem from="1638518398201" duration="2687000" />
       <workItem from="1638868323081" duration="29021000" />
       <workItem from="1639395630997" duration="6546000" />
@@ -344,7 +371,6 @@
       <workItem from="1641882916839" duration="526000" />
       <workItem from="1641883453605" duration="55000" />
       <workItem from="1641883519606" duration="599000" />
-      <workItem from="1710401425942" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
@@ -561,6 +587,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+<<<<<<< HEAD
+=======
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -572,6 +600,7 @@
         </entry>
       </map>
     </option>
+>>>>>>> 3f7b55a5c85638d3fee4fa1d1df549cb7ad2bce5
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="滑动窗口经典题&#10;递归经典题" />
