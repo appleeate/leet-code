@@ -8,9 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30fc93e-6e04-4c19-9c4b-0de1e46319b9" name="Default Changelist" comment="12-15">
-      <change afterPath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - III. 从上到下打印二叉树 III.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - II. 从上到下打印二叉树 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/aimOffer/剑指 Offer 32 - II. 从上到下打印二叉树 II.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,6 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/ac03a87b735616be96b0cfc809ef10f5/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/hashTable.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/78-子集.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/01-两数之和.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/226-反转二叉树.js" root0="FORCE_HIGHLIGHTING" />
@@ -128,6 +125,9 @@
       </list>
     </option>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="m4fegpna" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -138,7 +138,7 @@
     <option name="height" value="1416" />
   </component>
   <component name="ProjectId" id="21lb0KoHvYmYomWjjGEoopFYRBp" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -189,7 +189,7 @@
       <recent name="D:\learn\leet-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.22-括号生成.js">
+  <component name="RunManager" selected="Node.js.63-不同路径2.js">
     <configuration name="103-二叉树的锯齿形层次遍历.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/103-二叉树的锯齿形层次遍历.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -208,7 +208,7 @@
     <configuration name="26.删除排序数组中的重复项.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/26.删除排序数组中的重复项.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="27-移除元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/27-移除元素.js" working-dir="$PROJECT_DIR$">
+    <configuration name="63-不同路径2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/63-不同路径2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="977. 有序数组的平方.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/977. 有序数组的平方.js" working-dir="$PROJECT_DIR$">
@@ -218,19 +218,19 @@
       <item itemvalue="Node.js.103-二叉树的锯齿形层次遍历.js" />
       <item itemvalue="Node.js.104-二叉树的最大深度.js" />
       <item itemvalue="Node.js.14-最长公共前缀.js" />
-      <item itemvalue="Node.js.27-移除元素.js" />
       <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
       <item itemvalue="Node.js.977. 有序数组的平方.js" />
       <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
       <item itemvalue="Node.js.22-括号生成.js" />
+      <item itemvalue="Node.js.63-不同路径2.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.63-不同路径2.js" />
         <item itemvalue="Node.js.22-括号生成.js" />
         <item itemvalue="Node.js.24-两两交换链表中的节点.js" />
         <item itemvalue="Node.js.977. 有序数组的平方.js" />
         <item itemvalue="Node.js.26.删除排序数组中的重复项.js" />
-        <item itemvalue="Node.js.27-移除元素.js" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +344,7 @@
       <workItem from="1641882916839" duration="526000" />
       <workItem from="1641883453605" duration="55000" />
       <workItem from="1641883519606" duration="599000" />
+      <workItem from="1710401425942" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="滑动窗口经典题&#10;递归经典题">
       <created>1600665157199</created>
